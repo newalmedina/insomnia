@@ -1,0 +1,29 @@
+_id: req_7a1b738478284a87ad36e321d8dc438f
+type: Request
+parentId: fld_686440ced556422ebe97a7382ab73208
+modified: 1663082497146
+created: 1661966969249
+url: "http://localhost:5000/api/v1/categories "
+name: addCategories
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"Categoría 2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_91c2b1d7efba401fb4d8d05d4d480c44
+authentication: {}
+metaSortKey: -1661587439623
+isPrivate: false
+settingStoreCookies: false
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

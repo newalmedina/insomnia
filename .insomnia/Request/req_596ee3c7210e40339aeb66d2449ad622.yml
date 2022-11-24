@@ -1,0 +1,26 @@
+_id: req_596ee3c7210e40339aeb66d2449ad622
+type: Request
+parentId: fld_601ac0481c5047628dfc125c7d4ef88a
+modified: 1662929831568
+created: 1662764848088
+url: http://localhost:5000/api/v1/posts
+name: getPosts
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_91c2b1d7efba401fb4d8d05d4d480c44
+authentication: {}
+metaSortKey: -1661587439610.5
+isPrivate: false
+settingStoreCookies: false
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

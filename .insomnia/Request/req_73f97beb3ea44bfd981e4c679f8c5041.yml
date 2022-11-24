@@ -1,0 +1,32 @@
+_id: req_73f97beb3ea44bfd981e4c679f8c5041
+type: Request
+parentId: fld_9397fb6f2b9d42738b5380f60cb2966b
+modified: 1663258960369
+created: 1661587439623
+url: "http://localhost:5000/api/v1/movies/review "
+name: addReviews
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"movie_id":"573a1391f29313caabcd6d90",
+    	"review":"muy buena",
+    	"user_id":"123",
+    	"name":"newal"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_91c2b1d7efba401fb4d8d05d4d480c44
+authentication: {}
+metaSortKey: -1661587439623
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

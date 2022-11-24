@@ -1,0 +1,30 @@
+_id: req_e6233b1be34e4ebf95181457d03783c8
+type: Request
+parentId: fld_601ac0481c5047628dfc125c7d4ef88a
+modified: 1663082371550
+created: 1662764848079
+url: http://localhost:5000/api/v1/posts
+name: addPost
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title":"Post 3",
+    	"content":"Este es mi contenido 3"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_91c2b1d7efba401fb4d8d05d4d480c44
+authentication: {}
+metaSortKey: -1661587439623
+isPrivate: false
+settingStoreCookies: false
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

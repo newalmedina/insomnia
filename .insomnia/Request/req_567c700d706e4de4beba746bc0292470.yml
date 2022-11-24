@@ -1,0 +1,26 @@
+_id: req_567c700d706e4de4beba746bc0292470
+type: Request
+parentId: fld_601ac0481c5047628dfc125c7d4ef88a
+modified: 1662924629866
+created: 1662764848082
+url: http://localhost:5000/api/v1/posts/631e372ca5e6e8b0b628b6a4
+name: deletePosts
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_91c2b1d7efba401fb4d8d05d4d480c44
+authentication: {}
+metaSortKey: -1661587439573
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

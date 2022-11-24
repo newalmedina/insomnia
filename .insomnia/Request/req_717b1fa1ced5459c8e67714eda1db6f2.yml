@@ -1,0 +1,30 @@
+_id: req_717b1fa1ced5459c8e67714eda1db6f2
+type: Request
+parentId: fld_601ac0481c5047628dfc125c7d4ef88a
+modified: 1663082386302
+created: 1662765351519
+url: http://localhost:5000/api/v1/posts/63209f84f3d833d09e8c18a2
+name: updatePost
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title":"Post 3 dsadsa",
+    	"content":"Este es mi contenido 3 dsadsadsa"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_91c2b1d7efba401fb4d8d05d4d480c44
+authentication: {}
+metaSortKey: -1661587439616.75
+isPrivate: false
+settingStoreCookies: false
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

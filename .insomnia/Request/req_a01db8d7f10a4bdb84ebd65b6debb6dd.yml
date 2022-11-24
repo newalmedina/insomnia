@@ -1,0 +1,26 @@
+_id: req_a01db8d7f10a4bdb84ebd65b6debb6dd
+type: Request
+parentId: fld_dd5ce47b13994ee18f28ace7cd8eb0f5
+modified: 1662744980800
+created: 1661587491385
+url: http://localhost:5000/api/v1/movies?page=1
+name: GetAllMovies
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9c5fc76c563c4308864fed9e11501cc9
+authentication: {}
+metaSortKey: -1661587491385
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

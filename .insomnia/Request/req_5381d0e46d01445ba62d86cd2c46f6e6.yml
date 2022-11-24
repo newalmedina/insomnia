@@ -1,0 +1,26 @@
+_id: req_5381d0e46d01445ba62d86cd2c46f6e6
+type: Request
+parentId: fld_601ac0481c5047628dfc125c7d4ef88a
+modified: 1663082407563
+created: 1662765118394
+url: http://localhost:5000/api/v1/posts/63209f84f3d833d09e8c18a2
+name: findPost
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_91c2b1d7efba401fb4d8d05d4d480c44
+authentication: {}
+metaSortKey: -1661587439604.25
+isPrivate: false
+settingStoreCookies: false
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

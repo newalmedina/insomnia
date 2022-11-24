@@ -1,0 +1,29 @@
+_id: req_58076a1ce928454ca0e310d7aa91d533
+type: Request
+parentId: fld_686440ced556422ebe97a7382ab73208
+modified: 1663082543817
+created: 1661966969254
+url: "http://localhost:5000/api/v1/categories "
+name: deleteReviews
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"category_id":"6320a002e53c6ba6f315d527"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_91c2b1d7efba401fb4d8d05d4d480c44
+authentication: {}
+metaSortKey: -1661587439573
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

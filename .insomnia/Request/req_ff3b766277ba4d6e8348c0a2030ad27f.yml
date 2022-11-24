@@ -1,0 +1,35 @@
+_id: req_ff3b766277ba4d6e8348c0a2030ad27f
+type: Request
+parentId: fld_dd5ce47b13994ee18f28ace7cd8eb0f5
+modified: 1661964539432
+created: 1661587746860
+url: http://localhost:5000/api/v1/movies
+name: GetAllMoviesFilter
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_51f400cd6b8d441ea07c1cc6c486f815
+    name: rated
+    value: G
+    description: ""
+    disabled: true
+  - id: pair_6d86e1409cb047a5b8f5d862d961dcd5
+    name: title
+    value: Bridge
+    description: ""
+    disabled: false
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1661587465504
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
