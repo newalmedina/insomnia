@@ -1,12 +1,12 @@
-_id: req_b86a821e6c0c4fd28c81cef8dca6f6af
+_id: req_122a435c2c3341289a39cda40ff4889b
 type: Request
 parentId: fld_b4895a1a9efe43fd82eadcc85c691142
-modified: 1669544175454
-created: 1669279936405
-url: http://react-project-front.test/api/auth/login
-name: Login
+modified: 1669544203355
+created: 1669544155759
+url: http://react-project-front.test/api/auth/logout
+name: logout
 description: ""
-method: POST
+method: GET
 body:
   mimeType: application/x-www-form-urlencoded
   params:
@@ -22,8 +22,10 @@ parameters: []
 headers:
   - name: Content-Type
     value: application/x-www-form-urlencoded
-authentication: {}
-metaSortKey: -1669279936405
+authentication:
+  type: bearer
+  token: 2|E2mFK4ST7voaw0ROo2a4ClPidNSZ6VaDfsJDzSqm
+metaSortKey: -1663510602640
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: false
